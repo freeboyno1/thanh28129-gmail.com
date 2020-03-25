@@ -1,2 +1,3 @@
 # thanhnt
 Nginx
+from  centos
